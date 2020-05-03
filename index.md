@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Ghost Ring
+## A Super Galaxy Knights Experience
+### H. S. Milenkovic Capstone Project
 
-You can use the [editor on GitHub](https://github.com/snuffysam/snuffysamCapstoneMicrosite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[![TRAILER](https://img.youtube.com/vi/Oi8Z2Zicekg/0.jpg)](https://www.youtube.com/watch?v=Oi8Z2Zicekg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Ghost Ring?
 
-### Markdown
+Ghost Ring is an immersive mixed reality game, designed for the Magic Leap One.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A ring floats in front of the player, revealing the ghosts that are prowling through their play area. By spraying paint at the ghosts, the player can destroy them, keeping the evil spirits at bay!
 
-```markdown
-Syntax highlighted code block
+### Why use a ring? Why are there ghosts? Why use paint?
 
-# Header 1
-## Header 2
-### Header 3
+Let's be frank here. The Magic Leap One hardware is impressive, but it isn't perfect. The field of view is smaller than users expect, and it's difficult to distinguish dark colors from the background.
 
-- Bulleted
-- List
+Some games on the system try to work around these problems - hoping the player will ignore the issues. Ghost Ring is a game designed from the ground up to work *with* these problems.
 
-1. Numbered
-2. List
+The floating ring is a feature designed to keep the player from noticing the field of view problem. If there's just an invisible border past which the player can't see any in-game entities, the player will be annoyed that they couldn't find what they were looking for. But if there's a visual indicator of the field of view floating in front of the player, and the player has an explanation as to why they can't see game entities past that border (i.e., a spirit lens), the player won't be confused.
 
-**Bold** and _Italic_ and `Code` text
+The brightly colored paint is meant to work with the problem of distinguishing dark colors from the background. If everything in the game is brightly colored, there won't be any contrast issues. Plus, the player seeing paint on their environment helps with immersion - the player feels like their actions have consequences in the real world.
 
-[Link](url) and ![Image](src)
-```
+### What is "Super Galaxy Knights"?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Super Galaxy Knights refers to Super Galaxy Knights Deluxe R - a 3D comic that I create.](http://sgkdr.thecomicseries.com/comics/) The comic takes place in a fantasy world full of quirky characters and strange powers - this provides an easy story explanation for how the factors of ghosts and paint combine together into one game!
 
-### Jekyll Themes
+### When is it releasing?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/snuffysam/snuffysamCapstoneMicrosite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I have begun the submission process to Magic Leap World, but the game isn't quite finished yet - there's still a lot of polishing to do! I hope to get the game released by the end of May, but given current events the timeline may be a bit shaky.
